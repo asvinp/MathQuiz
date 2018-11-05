@@ -1,5 +1,9 @@
-# MathQuiz
-Submitted version to Canvas
+# MathQuiz Android App
+***
+Tested successfully on Nexus 5X API 23M (EMU)
+Nexus 7 API 22 (EMU)
+Samsung Galaxy Note 4
+***
 
 CMPE 277 Assignment - Create a Math Quiz App 
 
