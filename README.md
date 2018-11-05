@@ -5,7 +5,7 @@ Nexus 7 API 22 (EMU)
 Samsung Galaxy Note 4
 ***
 
-CMPE 277 Assignment - Create a Math Quiz App 
+CMPE 277 Assignment - Create a Math Quiz Android App 
 
 1. Home Screen
 a. This screen presents three options to the user to start a quiz for one of the
