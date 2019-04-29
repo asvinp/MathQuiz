@@ -1,4 +1,4 @@
-# MathQuiz Android App
+# MathQuiz-Android
 ## [CMPE 277] - Math Quiz App with basic functionality using Android 
 
 ***
